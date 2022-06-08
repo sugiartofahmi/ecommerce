@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "name": "GROIN GUARD ADIDAS",
+        "category": "equipment",
+        "href": "#",
+        "imageSrc": "/src/assets/product/equipment/groin-adidas.png",
+        "price": "$35",
+        "quantity": 2
+    },
+    {
+        "id": 2,
+        "name": "HANDGLOVE ADIDAS",
+        "category": "equipment",
+        "href": "#",
+        "imageSrc": "/src/assets/product/equipment/handglove-adidas.png",
+        "price": "$35",
+        "quantity": 2
+    },
+    {
+        "id": 3,
+        "name": "HEAD GUARD ADIDAS",
+        "category": "equipment",
+        "href": "#",
+        "imageSrc": "/src/assets/product/equipment/head-adidas.png",
+        "price": "$35",
+        "quantity": 2
+    },
+    {
+        "id": 4,
+        "name": "HUGO ADIDAS",
+        "category": "equipment",
+        "href": "#",
+        "imageSrc": "/src/assets/product/equipment/hugo-adidas.png",
+        "price": "$35",
+        "quantity": 2
+    },
+    {
+        "id": 5,
+        "name": "SHOES ADIDAS",
+        "category": "equipment",
+        "href": "#",
+        "imageSrc": "/src/assets/product/equipment/shoes-adidas.png",
+        "price": "$35",
+        "quantity": 2
+    }
+]
